@@ -4,13 +4,14 @@
 53034,'53034','Westbound Lougheed Hwy @ Westwood St',49.274252,-122.791893
 53161,'53161','Coquitlam Central @ Bay 6',49.27466,-122.799011
 53786,'53786','Eastbound Lougheed Hwy @ Shaughnessy St',49.266862,-122.775365
+53831,'53831','Westbound Dominion Ave @ Archbishop Carney Secondary',49.258466,-122.751944
 53863,'53863','Westbound Lougheed Hwy @ Oxford St',49.264109,-122.767958
 57571,'57571','Eastbound Lougheed Hwy @ Oxford St',49.263215,-122.76658
 57572,'57572','Eastbound Lougheed Hwy @ Coast Meridian Rd',49.259401,-122.757446
 57573,'57573','Eastbound Lougheed Hwy @ Ottawa St',49.255084,-122.747264
 57575,'57575','Southbound Harris Rd @ Mcmyn Rd',49.229291,-122.689643
 57576,'57576','Southbound Harris Rd @ Davison Rd',49.227202,-122.689669
-57577,'57577','Southbound Harris Rd @ Pitt Mdws',49.225312,-122.689688
+57577,'57577','Pitt Mdws @ Bay 2',49.225312,-122.689688
 57579,'57579','Southbound Harris Rd @ 119 Ave',49.218645,-122.689704
 57580,'57580','Eastbound Hammond Rd @ Harris Rd',49.217084,-122.688891
 57581,'57581','Eastbound Hammond Rd @ Blakely Rd',49.217117,-122.682879
@@ -76,24 +77,38 @@
 57660,'57660','Northbound Harris Rd @ Hammond Rd',49.21761,-122.689443
 57661,'57661','Northbound Harris Rd @ 119 Ave',49.219437,-122.689445
 57662,'57662','Northbound Harris Rd @ Ford Rd',49.223266,-122.689429
-57663,'57663','Northbound Harris Rd @ Pitt Mdws',49.22495,-122.689402
+57663,'57663','Pitt Mdws @ Bay 3',49.22495,-122.689402
 57664,'57664','Northbound Harris Rd @ Davison Rd',49.226981,-122.689383
 57665,'57665','Northbound Harris Rd @ Mcmyn Rd',49.229012,-122.689362
 57667,'57667','Westbound Lougheed Hwy @ Ottawa St',49.256074,-122.748653
 57752,'57752','Westbound Dewdney Trunk Rd @ 248 St',49.220336,-122.535885
+57882,'57882','Southbound 240 St @ Hl Ave',49.184496,-122.556967
+59157,'59157','Southbound 240 St @ 104 Ave',49.191681,-122.556945
+59160,'59160','Southbound 240 St @ Mcclure Dr',49.196694,-122.556844
+59162,'59162','Southbound 240 St @ 110 Ave',49.202082,-122.55672
 59185,'59185','Westbound Dewdney Trunk Rd @ 238b St',49.220405,-122.561893
 59187,'59187','Eastbound Dewdney Trunk Rd @ 238b St',49.220278,-122.560773
 59189,'59189','Westbound Lougheed Hwy @ Shaughnessy St',49.267174,-122.775315
+59199,'59199','Eastbound 102 Ave @ 241a St',49.187432,-122.552135
+59201,'59201','Eastbound 102 Ave @ 244 St',49.18745,-122.545596
+59208,'59208','Westbound 104 Ave @ 245 St',49.19135,-122.543302
 59304,'59304','Westbound Dewdney Trunk Rd @ Fraser St',49.220544,-122.599936
 59631,'59631','Northbound Harris Rd @ Civic Ctr',49.221141,-122.689447
 59632,'59632','Southbound Harris Rd @ Civic Ctr',49.221301,-122.689721
+59692,'59692','Southbound 240 St @ Dewdney Trunk Rd',49.219802,-122.557188
+59696,'59696','Southbound 240 St @ 11500 Block',49.211555,-122.556883
+59698,'59698','Southbound 240 St @ 112 Ave',49.205433,-122.556703
 59710,'59710','Westbound Dewdney Trunk Rd @ 223 St',49.220551,-122.604122
+59713,'59713','Southbound 240 St @ 118 Ave',49.217262,-122.55709
 59887,'59887','Eastbound Dewdney Trunk Rd @ 240 St',49.220256,-122.556606
+60422,'60422','Northbound Jackson Rd @ 103 Ave',49.189248,-122.540433
 60776,'60776','Northbound 200 St @ 119a Ave',49.219666,-122.665517
 60979,'60979','Eastbound Bus Stop @ Mission City',49.133844,-122.304219
 61057,'61057','Haney Pl @ Bay 8',49.219502,-122.597301
 61058,'61058','Haney Pl @ Bay 7',49.219505,-122.597034
 61063,'61063','Haney Pl @ Bay 2',49.219451,-122.59727
+61247,'61247','Eastbound 102 Ave @ 242b St',49.187397,-122.550454
+61273,'61273','Eastbound Dominion Ave @ Archbishop Carney Secondary',49.258336,-122.749983
 61291,'61291','Westbound Lougheed Hwy @ Dominion Ave',49.258332,-122.753993
 61452,'61452','Westbound Lougheed Hwy @ Old Dewdney Trunk Rd',49.243679,-122.720302
 61595,'61595','Westbound Lougheed Hwy @ Sherling Ave',49.253669,-122.742982
