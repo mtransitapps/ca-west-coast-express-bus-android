@@ -1,115 +1,115 @@
-53022,'53022','Eastbound Lougheed Hwy @ Westwood St',49.274107,-122.792389
-53023,'53023','Eastbound Lougheed Hwy @ Hastings St',49.269622,-122.781555
-53033,'53033','Westbound Lougheed Hwy @ Hastings St',49.270604,-122.783366
-53034,'53034','Westbound Lougheed Hwy @ Westwood St',49.274252,-122.791893
+53022,'53022','Lougheed Hwy @ Westwood St',49.274107,-122.792389
+53023,'53023','Lougheed Hwy @ Hastings St',49.269622,-122.781555
+53033,'53033','Lougheed Hwy @ Hastings St',49.270604,-122.783366
+53034,'53034','Lougheed Hwy @ Westwood St',49.274252,-122.791893
 53161,'53161','Coquitlam Central @ Bay 6',49.27466,-122.799011
-53786,'53786','Eastbound Lougheed Hwy @ Shaughnessy St',49.266862,-122.775365
-53831,'53831','Westbound Dominion Ave @ Archbishop Carney Secondary',49.258466,-122.751944
-53863,'53863','Westbound Lougheed Hwy @ Oxford St',49.264109,-122.767958
-57571,'57571','Eastbound Lougheed Hwy @ Oxford St',49.263215,-122.76658
-57572,'57572','Eastbound Lougheed Hwy @ Coast Meridian Rd',49.259401,-122.757446
-57573,'57573','Eastbound Lougheed Hwy @ Ottawa St',49.255084,-122.747264
-57575,'57575','Southbound Harris Rd @ Mcmyn Rd',49.229291,-122.689643
-57576,'57576','Southbound Harris Rd @ Davison Rd',49.227202,-122.689669
+53786,'53786','Lougheed Hwy @ Shaughnessy St',49.266862,-122.775365
+53831,'53831','Dominion Ave @ Archbishop Carney Secondary',49.258466,-122.751944
+53863,'53863','Lougheed Hwy @ Oxford St',49.264109,-122.767958
+57571,'57571','Lougheed Hwy @ Oxford St',49.263215,-122.76658
+57572,'57572','Lougheed Hwy @ Coast Meridian Rd',49.259401,-122.757446
+57573,'57573','Lougheed Hwy @ Ottawa St',49.255084,-122.747264
+57575,'57575','Harris Rd @ McMyn Rd',49.229291,-122.689643
+57576,'57576','Harris Rd @ Davison Rd',49.227202,-122.689669
 57577,'57577','Pitt Mdws @ Bay 2',49.225312,-122.689688
-57579,'57579','Southbound Harris Rd @ 119 Ave',49.218645,-122.689704
-57580,'57580','Eastbound Hammond Rd @ Harris Rd',49.217084,-122.688891
-57581,'57581','Eastbound Hammond Rd @ Blakely Rd',49.217117,-122.682879
-57582,'57582','Eastbound Hammond Rd @ Bonson Rd',49.217148,-122.67734
-57583,'57583','Eastbound Hammond Rd @ Wildwood Cres',49.217156,-122.674538
-57584,'57584','Eastbound Hammond Rd @ Albertan St',49.21716,-122.671081
+57579,'57579','Harris Rd @ 119 Ave',49.218645,-122.689704
+57580,'57580','Hammond Rd @ Harris Rd',49.217084,-122.688891
+57581,'57581','Hammond Rd @ Blakely Rd',49.217117,-122.682879
+57582,'57582','Hammond Rd @ Bonson Rd',49.217148,-122.67734
+57583,'57583','Hammond Rd @ Wildwood Cres',49.217156,-122.674538
+57584,'57584','Hammond Rd @ Albertan St',49.21716,-122.671081
 57585,'57585','Maple Mdws @ Bay 3',49.216846,-122.666738
-57588,'57588','Eastbound Dewdney Trunk Rd @ 202 St',49.221343,-122.659857
-57589,'57589','Eastbound Dewdney Trunk Rd @ 203 St',49.221322,-122.654946
-57590,'57590','Eastbound Dewdney Trunk Rd @ 206 St',49.220455,-122.650072
-57591,'57591','Eastbound Dewdney Trunk Rd @ 207a St',49.220441,-122.646559
-57592,'57592','Eastbound Dewdney Trunk Rd @ 210 St',49.220464,-122.638531
-57593,'57593','Eastbound Dewdney Trunk Rd @ Laity St',49.220485,-122.631294
-57594,'57594','Eastbound Dewdney Trunk Rd @ 214 St',49.220515,-122.627494
-57595,'57595','Eastbound Dewdney Trunk Rd @ 216 St',49.220479,-122.622111
-57596,'57596','Eastbound Dewdney Trunk Rd @ Wicklow Way',49.220491,-122.617261
-57597,'57597','Eastbound Dewdney Trunk Rd @ Dover St',49.220468,-122.613497
-57598,'57598','Eastbound Dewdney Trunk Rd @ Dunbar St',49.220427,-122.609221
-57599,'57599','Eastbound Dewdney Trunk Rd @ 222 St',49.22041,-122.606473
-57600,'57600','Eastbound Dewdney Trunk Rd @ 223 St',49.220393,-122.604001
-57609,'57609','Eastbound Dewdney Trunk Rd @ 227 St',49.220362,-122.593558
-57610,'57610','Eastbound Dewdney Trunk Rd @ 228 St',49.220342,-122.589418
-57611,'57611','Eastbound Dewdney Trunk Rd @ 230 St',49.220308,-122.584151
-57612,'57612','Eastbound Dewdney Trunk Rd @ 232 St',49.220274,-122.578305
-57613,'57613','Eastbound Dewdney Trunk Rd @ 234 St',49.220295,-122.573768
-57614,'57614','Eastbound Dewdney Trunk Rd @ 236 St',49.220289,-122.567573
-57615,'57615','Eastbound Dewdney Trunk Rd @ 237a St',49.220277,-122.563473
-57617,'57617','Eastbound Dewdney Trunk Rd @ 243 St',49.22024,-122.54905
-57618,'57618','Eastbound Dewdney Trunk Rd @ 246 St',49.220204,-122.539955
-57619,'57619','Eastbound Dewdney Trunk Rd @ 248 St',49.2202,-122.534132
-57620,'57620','Eastbound Dewdney Trunk Rd @ 24900 Block',49.220217,-122.531689
-57621,'57621','Northbound 250 St @ Dewdney Trunk Rd',49.220653,-122.529157
-57623,'57623','Westbound Dewdney Trunk Rd @ 246 St',49.220317,-122.540672
-57624,'57624','Westbound Dewdney Trunk Rd @ 244 St',49.220346,-122.545522
-57625,'57625','Westbound Dewdney Trunk Rd @ 243 St',49.220375,-122.55105
-57626,'57626','Westbound Dewdney Trunk Rd @ 240 St',49.220427,-122.557741
-57627,'57627','Westbound Dewdney Trunk Rd @ 237 St',49.220422,-122.56571
-57628,'57628','Westbound Dewdney Trunk Rd @ 236 St',49.22043,-122.568707
-57629,'57629','Westbound Dewdney Trunk Rd @ 234 St',49.220431,-122.573802
-57630,'57630','Westbound Dewdney Trunk Rd @ 232 St',49.220449,-122.580236
-57631,'57631','Westbound Dewdney Trunk Rd @ 230 St',49.220475,-122.585414
-57632,'57632','Westbound Dewdney Trunk Rd @ Burnett St',49.22049,-122.588808
-57633,'57633','Westbound Dewdney Trunk Rd @ 228 St',49.220505,-122.590759
-57634,'57634','Westbound Dewdney Trunk Rd @ 227 St',49.220514,-122.594678
-57641,'57641','Westbound Dewdney Trunk Rd @ 222 St',49.220575,-122.608115
-57642,'57642','Westbound Dewdney Trunk Rd @ Dover St',49.220617,-122.6145
-57643,'57643','Westbound Dewdney Trunk Rd @ Hall St',49.220636,-122.618915
-57644,'57644','Westbound Dewdney Trunk Rd @ 216 St',49.220656,-122.623795
-57645,'57645','Westbound Dewdney Trunk Rd @ 214 St',49.220652,-122.628562
-57646,'57646','Westbound Dewdney Trunk Rd @ Laity St',49.220628,-122.632704
-57647,'57647','Westbound Dewdney Trunk Rd @ 210 St',49.220628,-122.640416
-57648,'57648','Westbound Dewdney Trunk Rd @ 207 St',49.220592,-122.648351
-57649,'57649','Westbound Dewdney Trunk Rd @ 205 St',49.221482,-122.653783
-57650,'57650','Westbound Dewdney Trunk Rd @ 203 St',49.221514,-122.657617
-57651,'57651','Westbound Dewdney Trunk Rd @ 201b St',49.221527,-122.662257
-57652,'57652','Southbound Maple Mdws Way @ 200 St',49.220333,-122.666916
+57588,'57588','Dewdney Trunk Rd @ 202 St',49.221343,-122.659857
+57589,'57589','Dewdney Trunk Rd @ 203 St',49.221322,-122.654946
+57590,'57590','Dewdney Trunk Rd @ 206 St',49.220455,-122.650072
+57591,'57591','Dewdney Trunk Rd @ 207A St',49.220441,-122.646559
+57592,'57592','Dewdney Trunk Rd @ 210 St',49.220464,-122.638531
+57593,'57593','Dewdney Trunk Rd @ Laity St',49.220485,-122.631294
+57594,'57594','Dewdney Trunk Rd @ 214 St',49.220515,-122.627494
+57595,'57595','Dewdney Trunk Rd @ 216 St',49.220479,-122.622111
+57596,'57596','Dewdney Trunk Rd @ Wicklow Way',49.220491,-122.617261
+57597,'57597','Dewdney Trunk Rd @ Dover St',49.220468,-122.613497
+57598,'57598','Dewdney Trunk Rd @ Dunbar St',49.220427,-122.609221
+57599,'57599','Dewdney Trunk Rd @ 222 St',49.22041,-122.606473
+57600,'57600','Dewdney Trunk Rd @ 223 St',49.220393,-122.604001
+57609,'57609','Dewdney Trunk Rd @ 227 St',49.220362,-122.593558
+57610,'57610','Dewdney Trunk Rd @ 228 St',49.220342,-122.589418
+57611,'57611','Dewdney Trunk Rd @ 230 St',49.220308,-122.584151
+57612,'57612','Dewdney Trunk Rd @ 232 St',49.220274,-122.578305
+57613,'57613','Dewdney Trunk Rd @ 234 St',49.220295,-122.573768
+57614,'57614','Dewdney Trunk Rd @ 236 St',49.220289,-122.567573
+57615,'57615','Dewdney Trunk Rd @ 237A St',49.220277,-122.563473
+57617,'57617','Dewdney Trunk Rd @ 243 St',49.22024,-122.54905
+57618,'57618','Dewdney Trunk Rd @ 246 St',49.220204,-122.539955
+57619,'57619','Dewdney Trunk Rd @ 248 St',49.2202,-122.534132
+57620,'57620','Dewdney Trunk Rd @ 24900 Block',49.220217,-122.531689
+57621,'57621','250 St @ Dewdney Trunk Rd',49.220653,-122.529157
+57623,'57623','Dewdney Trunk Rd @ 246 St',49.220317,-122.540672
+57624,'57624','Dewdney Trunk Rd @ 244 St',49.220346,-122.545522
+57625,'57625','Dewdney Trunk Rd @ 243 St',49.220375,-122.55105
+57626,'57626','Dewdney Trunk Rd @ 240 St',49.220427,-122.557741
+57627,'57627','Dewdney Trunk Rd @ 237 St',49.220422,-122.56571
+57628,'57628','Dewdney Trunk Rd @ 236 St',49.22043,-122.568707
+57629,'57629','Dewdney Trunk Rd @ 234 St',49.220431,-122.573802
+57630,'57630','Dewdney Trunk Rd @ 232 St',49.220449,-122.580236
+57631,'57631','Dewdney Trunk Rd @ 230 St',49.220475,-122.585414
+57632,'57632','Dewdney Trunk Rd @ Burnett St',49.22049,-122.588808
+57633,'57633','Dewdney Trunk Rd @ 228 St',49.220505,-122.590759
+57634,'57634','Dewdney Trunk Rd @ 227 St',49.220514,-122.594678
+57641,'57641','Dewdney Trunk Rd @ 222 St',49.220575,-122.608115
+57642,'57642','Dewdney Trunk Rd @ Dover St',49.220617,-122.6145
+57643,'57643','Dewdney Trunk Rd @ Hall St',49.220636,-122.618915
+57644,'57644','Dewdney Trunk Rd @ 216 St',49.220656,-122.623795
+57645,'57645','Dewdney Trunk Rd @ 214 St',49.220652,-122.628562
+57646,'57646','Dewdney Trunk Rd @ Laity St',49.220628,-122.632704
+57647,'57647','Dewdney Trunk Rd @ 210 St',49.220628,-122.640416
+57648,'57648','Dewdney Trunk Rd @ 207 St',49.220592,-122.648351
+57649,'57649','Dewdney Trunk Rd @ 205 St',49.221482,-122.653783
+57650,'57650','Dewdney Trunk Rd @ 203 St',49.221514,-122.657617
+57651,'57651','Dewdney Trunk Rd @ 201B St',49.221527,-122.662257
+57652,'57652','Maple Mdws Way @ 200 St',49.220333,-122.666916
 57654,'57654','Maple Mdws @ Bay 2',49.216959,-122.667051
-57655,'57655','Westbound Hammond Rd @ Springdale Dr',49.217291,-122.67295
-57656,'57656','Westbound Hammond Rd @ Greenhaven Court',49.217281,-122.675662
-57657,'57657','Westbound Hammond Rd @ Bonson Rd East',49.217267,-122.679016
-57658,'57658','Westbound Hammond Rd @ Bonson Rd West',49.217258,-122.681339
-57659,'57659','Westbound Hammond Rd @ Blakely Rd',49.217246,-122.684239
-57660,'57660','Northbound Harris Rd @ Hammond Rd',49.21761,-122.689443
-57661,'57661','Northbound Harris Rd @ 119 Ave',49.219437,-122.689445
-57662,'57662','Northbound Harris Rd @ Ford Rd',49.223266,-122.689429
+57655,'57655','Hammond Rd @ Springdale Dr',49.217291,-122.67295
+57656,'57656','Hammond Rd @ Greenhaven Court',49.217281,-122.675662
+57657,'57657','Hammond Rd @ Bonson Rd East',49.217267,-122.679016
+57658,'57658','Hammond Rd @ Bonson Rd West',49.217258,-122.681339
+57659,'57659','Hammond Rd @ Blakely Rd',49.217246,-122.684239
+57660,'57660','Harris Rd @ Hammond Rd',49.21761,-122.689443
+57661,'57661','Harris Rd @ 119 Ave',49.219437,-122.689445
+57662,'57662','Harris Rd @ Ford Rd',49.223266,-122.689429
 57663,'57663','Pitt Mdws @ Bay 3',49.22495,-122.689402
-57664,'57664','Northbound Harris Rd @ Davison Rd',49.226981,-122.689383
-57665,'57665','Northbound Harris Rd @ Mcmyn Rd',49.229012,-122.689362
-57667,'57667','Westbound Lougheed Hwy @ Ottawa St',49.256074,-122.748653
-57752,'57752','Westbound Dewdney Trunk Rd @ 248 St',49.220336,-122.535885
-57882,'57882','Southbound 240 St @ Hl Ave',49.184496,-122.556967
-59157,'59157','Southbound 240 St @ 104 Ave',49.191681,-122.556945
-59160,'59160','Southbound 240 St @ Mcclure Dr',49.196694,-122.556844
-59162,'59162','Southbound 240 St @ 110 Ave',49.202082,-122.55672
-59185,'59185','Westbound Dewdney Trunk Rd @ 238b St',49.220405,-122.561893
-59187,'59187','Eastbound Dewdney Trunk Rd @ 238b St',49.220278,-122.560773
-59189,'59189','Westbound Lougheed Hwy @ Shaughnessy St',49.267174,-122.775315
-59199,'59199','Eastbound 102 Ave @ 241a St',49.187432,-122.552135
-59201,'59201','Eastbound 102 Ave @ 244 St',49.18745,-122.545596
-59208,'59208','Westbound 104 Ave @ 245 St',49.19135,-122.543302
-59304,'59304','Westbound Dewdney Trunk Rd @ Fraser St',49.220544,-122.599936
-59631,'59631','Northbound Harris Rd @ Civic Ctr',49.221141,-122.689447
-59632,'59632','Southbound Harris Rd @ Civic Ctr',49.221301,-122.689721
-59692,'59692','Southbound 240 St @ Dewdney Trunk Rd',49.219802,-122.557188
-59696,'59696','Southbound 240 St @ 11500 Block',49.211555,-122.556883
-59698,'59698','Southbound 240 St @ 112 Ave',49.205433,-122.556703
-59710,'59710','Westbound Dewdney Trunk Rd @ 223 St',49.220551,-122.604122
-59713,'59713','Southbound 240 St @ 118 Ave',49.217262,-122.55709
-59887,'59887','Eastbound Dewdney Trunk Rd @ 240 St',49.220256,-122.556606
-60422,'60422','Northbound Jackson Rd @ 103 Ave',49.189248,-122.540433
-60776,'60776','Northbound 200 St @ 119a Ave',49.219666,-122.665517
-60979,'60979','Eastbound Bus Stop @ Mission City',49.133844,-122.304219
+57664,'57664','Harris Rd @ Davison Rd',49.226981,-122.689383
+57665,'57665','Harris Rd @ McMyn Rd',49.229012,-122.689362
+57667,'57667','Lougheed Hwy @ Ottawa St',49.256074,-122.748653
+57752,'57752','Dewdney Trunk Rd @ 248 St',49.220336,-122.535885
+57882,'57882','240 St @ Hl Ave',49.184496,-122.556967
+59157,'59157','240 St @ 104 Ave',49.191681,-122.556945
+59160,'59160','240 St @ McClure Dr',49.196694,-122.556844
+59162,'59162','240 St @ 110 Ave',49.202082,-122.55672
+59185,'59185','Dewdney Trunk Rd @ 238B St',49.220405,-122.561893
+59187,'59187','Dewdney Trunk Rd @ 238B St',49.220278,-122.560773
+59189,'59189','Lougheed Hwy @ Shaughnessy St',49.267174,-122.775315
+59199,'59199','102 Ave @ 241A St',49.187432,-122.552135
+59201,'59201','102 Ave @ 244 St',49.18745,-122.545596
+59208,'59208','104 Ave @ 245 St',49.19135,-122.543302
+59304,'59304','Dewdney Trunk Rd @ Fraser St',49.220544,-122.599936
+59631,'59631','Harris Rd @ Civic Ctr',49.221141,-122.689447
+59632,'59632','Harris Rd @ Civic Ctr',49.221301,-122.689721
+59692,'59692','240 St @ Dewdney Trunk Rd',49.219802,-122.557188
+59696,'59696','240 St @ 11500 Block',49.211555,-122.556883
+59698,'59698','240 St @ 112 Ave',49.205433,-122.556703
+59710,'59710','Dewdney Trunk Rd @ 223 St',49.220551,-122.604122
+59713,'59713','240 St @ 118 Ave',49.217262,-122.55709
+59887,'59887','Dewdney Trunk Rd @ 240 St',49.220256,-122.556606
+60422,'60422','Jackson Rd @ 103 Ave',49.189248,-122.540433
+60776,'60776','200 St @ 119A Ave',49.219666,-122.665517
+60979,'60979','Bus Stop @ Mission City',49.133844,-122.304219
 61057,'61057','Haney Pl @ Bay 8',49.219502,-122.597301
 61058,'61058','Haney Pl @ Bay 7',49.219505,-122.597034
 61063,'61063','Haney Pl @ Bay 2',49.219451,-122.59727
-61247,'61247','Eastbound 102 Ave @ 242b St',49.187397,-122.550454
-61273,'61273','Eastbound Dominion Ave @ Archbishop Carney Secondary',49.258336,-122.749983
-61291,'61291','Westbound Lougheed Hwy @ Dominion Ave',49.258332,-122.753993
-61452,'61452','Westbound Lougheed Hwy @ Old Dewdney Trunk Rd',49.243679,-122.720302
-61595,'61595','Westbound Lougheed Hwy @ Sherling Ave',49.253669,-122.742982
-61685,'61685','Eastbound Lougheed Hwy @ Kennedy Rd',49.242957,-122.719855
+61247,'61247','102 Ave @ 242B St',49.187397,-122.550454
+61273,'61273','Dominion Ave @ Archbishop Carney Secondary',49.258336,-122.749983
+61291,'61291','Lougheed Hwy @ Dominion Ave',49.258332,-122.753993
+61452,'61452','Lougheed Hwy @ Old Dewdney Trunk Rd',49.243679,-122.720302
+61595,'61595','Lougheed Hwy @ Sherling Ave',49.253669,-122.742982
+61685,'61685','Lougheed Hwy @ Kennedy Rd',49.242957,-122.719855
