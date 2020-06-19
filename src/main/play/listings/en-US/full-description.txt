@@ -1,10 +1,10 @@
-(TrainBus service is DISCONTINUED since December 30, 2016, please use Vancouver bus #701 instead)
+(TrainBus service is DISCONTINUED since December 30, 2016, please use Vancouver TransLink bus #701 instead)
 
-This app adds WCE TrainBus information to MonTransit.
+This app adds West Coast Express TrainBus information to MonTransit.
 
 This app provides the TrainBus schedule and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
-WCE TrainBus serves Vancouver, Port Moody, Coquitlam, Port Coquitlam, Pitt Meadows, Maple Ridge, Mission in British Columbia, Canada.
+West Coast Express TrainBus serves Vancouver, Port Moody, Coquitlam, Port Coquitlam, Pitt Meadows, Maple Ridge, Mission in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display TrainBus information (schedule...).
 
