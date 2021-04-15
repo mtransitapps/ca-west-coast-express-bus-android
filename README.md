@@ -1,4 +1,4 @@
-# West Coast Express TrainBus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# West Coast Express TrainBus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android) [ARCHIVED]
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-west-coast-express-bus-android/master/pub/hi-res-app-icon.png"/>
 
